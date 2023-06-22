@@ -258,7 +258,7 @@ footer{
     height: 70px;
 }
 
-@media (max-width:700px) {
+@media (max-width:720px) {
     body{
         display: flex;
         flex-direction: column;
@@ -333,7 +333,7 @@ footer{
 
     .github{     
         left: 16%;
-        top: 148%;
+        top: calc(136vh + 100px);
         display: flex;
         flex-direction: column;
         color: black;
@@ -341,7 +341,7 @@ footer{
 
     .linkedin{
         left: 59%;
-        top: 148%;
+        top: calc(136vh + 100px);
         display: flex;
         flex-direction: column;
         color: black;
