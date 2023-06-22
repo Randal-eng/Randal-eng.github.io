@@ -333,7 +333,7 @@ footer{
 
     .github{     
         left: 16%;
-        top: calc(136vh + 100px);
+        top: calc(136vh + 115px);
         display: flex;
         flex-direction: column;
         color: black;
@@ -341,7 +341,7 @@ footer{
 
     .linkedin{
         left: 59%;
-        top: calc(136vh + 100px);
+        top: calc(136vh + 115px);
         display: flex;
         flex-direction: column;
         color: black;
