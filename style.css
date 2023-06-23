@@ -327,7 +327,7 @@ footer{
 }
 
     .Alura{
-        top: 73%;
+        top: calc(63vh + 100px);
         left: 27%;
     }
 
